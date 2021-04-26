@@ -1,6 +1,6 @@
 
-模型导出：wmd_convert_pb.py
-===================================以下为官方readme================================
+模型导出：wmd_convert_pb.py  
+
 # BERT
 
 **\*\*\*\*\* New February 7th, 2019: TfHub Module \*\*\*\*\***
